@@ -1,0 +1,64 @@
+body{
+    background-image: url(./adare.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.first{
+    height: 115px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.second{
+    background-color: rgba(19, 17, 17, 0.479);
+    height: 40px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding:20px 0;
+    color: white;
+    
+}
+.third{
+    height: 400px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.forth{
+    background-color: cyan;
+    height: 500px;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.fifth{
+    background-color: rgba(ed);
+    height: 40px;
+    width:  1024px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+    color: aliceblue;
+    padding: 25px 0;
+
+}
+p{
+    font-size: 60px;
+}
+h2{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: lighter;
+}
+h4{
+text-decoration: underline;
+font-size: 20px;
+}
